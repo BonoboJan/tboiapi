@@ -1,52 +1,52 @@
 {
   "characters": [
     {
-      "name":"Isaac","bdmg":3.5,"dmgmult":1.00,"bhealth":3,"bitem":"The D6","btears":0,"bss":"1","brange":23.75,"bspeed":1.0,"bluck":0,"bstart":"x1 bombas","htunlock":"___","img":"https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/a/a8/Isaac_App.png/revision/latest/scale-to-width-down/70?cb=20150104210047"
+      "id":1 ,"name":"Isaac","bdmg":3.5,"dmgmult":1.00,"bhealth":3,"bitem":"The D6","btears":0,"bss":"1","brange":23.75,"bspeed":1.0,"bluck":0,"bstart":"x1 bombas","htunlock":"___","img":"https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/a/a8/Isaac_App.png/revision/latest/scale-to-width-down/70?cb=20150104210047"
     },
     {
-      "name":"Magdalene","bdmg":3.5,"dmgmult":1.00,"bhealth":4,"bitem":"Yum Heart","btears":0,"bss":"1","brange":23.75,"bspeed":"0.85","bluck":"0","bstart":"Speed Up pill","htunlock":"___","img":"https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/7/74/Magdalene_App.png/revision/latest/scale-to-width-down/95?cb=20150104213510"
+      "id":2 ,"name":"Magdalene","bdmg":3.5,"dmgmult":1.00,"bhealth":4,"bitem":"Yum Heart","btears":0,"bss":"1","brange":23.75,"bspeed":"0.85","bluck":"0","bstart":"Speed Up pill","htunlock":"___","img":"https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/7/74/Magdalene_App.png/revision/latest/scale-to-width-down/95?cb=20150104213510"
     },
     {
-      "name":"Cain","bdmg":3.5,"dmgmult":1.00,"bhealth":2,"bitem":"Lucky foot","btears":0,"bss":"1","brange":17.75,"bspeed":"1.3","bluck":"0","bstart":["x1 llaves","Paper clip"],"htunlock":"___","img":"https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/3/32/Cain_App.png/revision/latest/scale-to-width-down/70?cb=20141118015557"
+      "id":3 ,"name":"Cain","bdmg":3.5,"dmgmult":1.00,"bhealth":2,"bitem":"Lucky foot","btears":0,"bss":"1","brange":17.75,"bspeed":"1.3","bluck":"0","bstart":["x1 llaves","Paper clip"],"htunlock":"___","img":"https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/3/32/Cain_App.png/revision/latest/scale-to-width-down/70?cb=20141118015557"
     },
     {
-      "name":"Judas","bdmg":0,"dmgmult":1.00,"bhealth":1,"bitem":"The Book of Belial","btears":0,"bss":"1","brange":23.75,"bspeed":"1.0","bluck":"0","bstart":"x3 coins","htunlock":"___","img":"https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/1/18/Judas_App.png/revision/latest/scale-to-width-down/70?cb=20141118015603"
+      "id":4 ,"name":"Judas","bdmg":0,"dmgmult":1.00,"bhealth":1,"bitem":"The Book of Belial","btears":0,"bss":"1","brange":23.75,"bspeed":"1.0","bluck":"0","bstart":"x3 coins","htunlock":"___","img":"https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/1/18/Judas_App.png/revision/latest/scale-to-width-down/70?cb=20141118015603"
     },
     {
-      "name":"BlackJudas","bdmg":3.5,"dmgmult":2.00,"bhealth":2,"bitem":"Ninguno","btears":0,"bss":"1","brange":23.75,"bspeed":"1.1","bluck":"0","bstart":"Ninguno","htunlock":"___","img":"___"
+      "id":5 ,"name":"BlackJudas","bdmg":3.5,"dmgmult":2.00,"bhealth":2,"bitem":"Ninguno","btears":0,"bss":"1","brange":23.75,"bspeed":"1.1","bluck":"0","bstart":"Ninguno","htunlock":"___","img":"___"
     },
     {
-      "name":"???","bdmg":3.5,"dmgmult":1.05,"bhealth":3,"bitem":"The poop","btears":"0","bss":"1","brange":23.75,"bspeed":"1.1","bluck":"0","bstart":"Ninguno","htunlock":"___","img":"https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/5/5e/Blue_Baby_App.png/revision/latest/scale-to-width-down/70?cb=20150104210045"
+      "id":6 ,"name":"???","bdmg":3.5,"dmgmult":1.05,"bhealth":3,"bitem":"The poop","btears":"0","bss":"1","brange":23.75,"bspeed":"1.1","bluck":"0","bstart":"Ninguno","htunlock":"___","img":"https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/5/5e/Blue_Baby_App.png/revision/latest/scale-to-width-down/70?cb=20150104210045"
     },
     {
-      "name":"Eve","bdmg":3.5,"dmgmult":0.75,"bhealth":2,"bitem":["Whore of Babylon","Dead Bird","Razor Blade"],"btears":0,"bss":"1","brange":23.75,"bspeed":"1.23","bluck":"0","bstart":"Ninguno","htunlock":"___","img":"https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/f/f9/Eve_App.png/revision/latest/scale-to-width-down/82?cb=20141118015600"
+      "id":7 ,"name":"Eve","bdmg":3.5,"dmgmult":0.75,"bhealth":2,"bitem":["Whore of Babylon","Dead Bird","Razor Blade"],"btears":0,"bss":"1","brange":23.75,"bspeed":"1.23","bluck":"0","bstart":"Ninguno","htunlock":"___","img":"https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/f/f9/Eve_App.png/revision/latest/scale-to-width-down/82?cb=20141118015600"
     },
     {
-      "name":"Samson","bdmg":3.5,"dmgmult":1.00,"bhealth":3,"bitem":"Bloody Lust","btears":-0.05,"bss":"1.31","brange":18.75,"bspeed":"1.1","bluck":"0","bstart":"Child’s Heart","htunlock":"___","img":"https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/f/fe/Samson_App.png/revision/latest/scale-to-width-down/82?cb=20150104210049"
+      "id":8 ,"name":"Samson","bdmg":3.5,"dmgmult":1.00,"bhealth":3,"bitem":"Bloody Lust","btears":-0.05,"bss":"1.31","brange":18.75,"bspeed":"1.1","bluck":"0","bstart":"Child’s Heart","htunlock":"___","img":"https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/f/fe/Samson_App.png/revision/latest/scale-to-width-down/82?cb=20150104210049"
     },
     {
-      "name":"Risen Lazarus","bdmg":3.5,"dmgmult":1.20,"bhealth":1,"bitem":"Permanent Anemic","btears":0,"bss":1,"brange":23.75,"bspeed":1.25,"bluck":0,"bstart":"Ninguno","htunlock":"___","img":"___"
+      "id":9 ,"name":"Risen Lazarus","bdmg":3.5,"dmgmult":1.20,"bhealth":1,"bitem":"Permanent Anemic","btears":0,"bss":1,"brange":23.75,"bspeed":1.25,"bluck":0,"bstart":"Ninguno","htunlock":"___","img":"___"
     },
     {
-      "name":"Eden","bdmg":1,"dmgmult":1.00,"bhealth":1,"bitem":"random","btears":1,"bss":"___","brange":1,"bspeed":"___","bluck":"___","bstart":"___","htunlock":"___","img":"___"
+      "id":10 ,"name":"Eden","bdmg":1,"dmgmult":1.00,"bhealth":1,"bitem":"random","btears":1,"bss":"___","brange":1,"bspeed":"___","bluck":"___","bstart":"___","htunlock":"___","img":"___"
     },
     {
-      "name":"The Lost","bdmg":3.5,"dmgmult":1.00,"bhealth":0,"bitem":["Volar","Lagrimas Espectrales","D4","Holy Mantle"],"btears":0,"bss":1,"brange":23.75,"bspeed":1.0,"bluck":0,"bstart":"x1 coins","htunlock":"___","img":"___"
+      "id":11 ,"name":"The Lost","bdmg":3.5,"dmgmult":1.00,"bhealth":0,"bitem":["Volar","Lagrimas Espectrales","D4","Holy Mantle"],"btears":0,"bss":1,"brange":23.75,"bspeed":1.0,"bluck":0,"bstart":"x1 coins","htunlock":"___","img":"___"
     },
     {
-      "name":"Lilith","bdmg":3.5,"dmgmult":1.00,"bhealth":3,"bitem":["Blindfolded","Incubus","Cambion Conception","Box of Friends"],"btears":0,"bss":1,"brange":23.75,"bspeed":1.0,"bluck":0,"bstart":"Ninguno","htunlock":"___","img":"___"
+      "id":12 ,"name":"Lilith","bdmg":3.5,"dmgmult":1.00,"bhealth":3,"bitem":["Blindfolded","Incubus","Cambion Conception","Box of Friends"],"btears":0,"bss":1,"brange":23.75,"bspeed":1.0,"bluck":0,"bstart":"Ninguno","htunlock":"___","img":"___"
     },
     {
-      "name":"The Keeper","bdmg":3.5,"dmgmult":1.20,"bhealth":2,"bitem":["Triple Shot","Wooden Nickel"],"btears":-2,"bss":1,"brange":23.75,"bspeed":0.85,"bluck":-2,"bstart":["x1 bombas","x1 monedas","Store Key"],"htunlock":"___","img":"___"
+      "id":13 ,"name":"The Keeper","bdmg":3.5,"dmgmult":1.20,"bhealth":2,"bitem":["Triple Shot","Wooden Nickel"],"btears":-2,"bss":1,"brange":23.75,"bspeed":0.85,"bluck":-2,"bstart":["x1 bombas","x1 monedas","Store Key"],"htunlock":"___","img":"___"
     },
     {
-      "name":"Apollyon","bdmg":3.5,"dmgmult":1.00,"bhealth":2,"bitem":"Void","btears":0,"bss":1,"brange":23.75,"bspeed":1.0,"bluck":0,"bstart":"Ninguno","htunlock":"___","img":"___"
+      "id":14 ,"name":"Apollyon","bdmg":3.5,"dmgmult":1.00,"bhealth":2,"bitem":"Void","btears":0,"bss":1,"brange":23.75,"bspeed":1.0,"bluck":0,"bstart":"Ninguno","htunlock":"___","img":"___"
     },
     {
-      "name":"The Forgotten","bdmg":3.5,"dmgmult":1.50,"bhealth":2,"bitem":"Bone Club","btears":0,"bss":1,"brange":23.75,"bspeed":1.0,"bluck":0,"bstart":"Ninguno","htunlock":"___","img":"___"
+      "id":15 ,"name":"The Forgotten","bdmg":3.5,"dmgmult":1.50,"bhealth":2,"bitem":"Bone Club","btears":0,"bss":1,"brange":23.75,"bspeed":1.0,"bluck":0,"bstart":"Ninguno","htunlock":"___","img":"___"
     },
     {
-      "name":"The Soul","bdmg":3.5,"dmgmult":1.00,"bhealth":1,"bitem":["Volar","Lagrimas Espectrales"],"btears":0,"bss":1,"brange":23.75,"bspeed":1.3,"bluck":"0","bstart":"Ninguno","htunlock":"___","img":"___"
+      "id":16 ,"name":"The Soul","bdmg":3.5,"dmgmult":1.00,"bhealth":1,"bitem":["Volar","Lagrimas Espectrales"],"btears":0,"bss":1,"brange":23.75,"bspeed":1.3,"bluck":"0","bstart":"Ninguno","htunlock":"___","img":"___"
     }
   ]
 
